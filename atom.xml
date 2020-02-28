@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RMF</title>
+  
+  <subtitle>Never Settle</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://nanzet.cn/"/>
+  <updated>2020-02-28T04:02:12.786Z</updated>
+  <id>https://nanzet.cn/</id>
+  
+  <author>
+    <name>nanzet</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A gift</title>
+    <link href="https://nanzet.cn/396a.html"/>
+    <id>https://nanzet.cn/396a.html</id>
+    <published>2020-02-19T13:47:47.000Z</published>
+    <updated>2020-02-28T04:02:12.786Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://nanzet.cn/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="随笔" scheme="https://nanzet.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>下雪啦</title>
+    <link href="https://nanzet.cn/fe66.html"/>
+    <id>https://nanzet.cn/fe66.html</id>
+    <published>2020-02-15T09:04:29.000Z</published>
+    <updated>2020-02-28T04:01:36.426Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://nanzet.cn/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="随笔" scheme="https://nanzet.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git学习小记</title>
+    <link href="https://nanzet.cn/fdbe.html"/>
+    <id>https://nanzet.cn/fdbe.html</id>
+    <published>2020-02-14T09:03:37.000Z</published>
+    <updated>2020-02-14T09:26:20.300Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="git" scheme="https://nanzet.cn/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>了解国内相关法规，爬虫到底能爬哪些内容？</title>
+    <link href="https://nanzet.cn/dea1.html"/>
+    <id>https://nanzet.cn/dea1.html</id>
+    <published>2020-02-13T09:04:17.000Z</published>
+    <updated>2020-02-13T09:51:04.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="爬虫" scheme="https://nanzet.cn/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://nanzet.cn/3eeb.html"/>
+    <id>https://nanzet.cn/3eeb.html</id>
+    <published>2020-01-14T08:12:50.432Z</published>
+    <updated>2020-02-08T09:51:06.150Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
