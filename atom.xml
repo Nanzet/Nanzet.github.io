@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-06-14T14:07:01.250Z</updated>
+  <updated>2020-07-04T05:16:46.263Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python 利用匿名函数和reduce()方法对嵌套列表去重</title>
+    <link href="https://nanzet.cn/bbad.html"/>
+    <id>https://nanzet.cn/bbad.html</id>
+    <published>2020-07-04T04:57:00.000Z</published>
+    <updated>2020-07-04T05:16:46.263Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="python" scheme="https://nanzet.cn/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>V2Ray安装教程：vps购买 | 服务端（ubuntu 16.04.6）及客户端（windows）安装与配置</title>
+    <link href="https://nanzet.cn/2b11.html"/>
+    <id>https://nanzet.cn/2b11.html</id>
+    <published>2020-07-04T04:56:00.000Z</published>
+    <updated>2020-07-04T05:30:22.859Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="v2ray" scheme="https://nanzet.cn/tags/v2ray/"/>
+    
+  </entry>
   
   <entry>
     <title>理解美团点评分布式ID生成系统--Leaf</title>
