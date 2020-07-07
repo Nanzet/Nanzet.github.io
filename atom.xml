@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-07-04T06:15:00.319Z</updated>
+  <updated>2020-07-07T16:03:48.701Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决VS Code安装Python扩展后自动下载microsoft python language server缓慢的问题</title>
+    <link href="https://nanzet.cn/c911.html"/>
+    <id>https://nanzet.cn/c911.html</id>
+    <published>2020-07-07T15:52:30.000Z</published>
+    <updated>2020-07-07T16:03:48.701Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Visual Studio Code" scheme="https://nanzet.cn/tags/Visual-Studio-Code/"/>
+    
+  </entry>
   
   <entry>
     <title>Python 利用匿名函数和reduce()方法对嵌套列表去重</title>
@@ -183,7 +210,7 @@
     <link href="https://nanzet.cn/dea1.html"/>
     <id>https://nanzet.cn/dea1.html</id>
     <published>2020-02-13T09:04:17.000Z</published>
-    <updated>2020-02-13T09:51:04.207Z</updated>
+    <updated>2020-07-07T16:02:51.024Z</updated>
     
     <summary type="html">
     
