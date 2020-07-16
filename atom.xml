@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-07-07T16:22:26.171Z</updated>
+  <updated>2020-07-16T15:30:23.711Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Django--使用snowflake自定义生成主键ID替换数据库主键自增ID</title>
+    <link href="https://nanzet.cn/d893.html"/>
+    <id>https://nanzet.cn/d893.html</id>
+    <published>2020-07-14T02:00:00.000Z</published>
+    <updated>2020-07-16T15:30:23.711Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Django" scheme="https://nanzet.cn/tags/Django/"/>
+    
+  </entry>
   
   <entry>
     <title>解决VS Code安装Python扩展后自动下载microsoft python language server缓慢的问题</title>
