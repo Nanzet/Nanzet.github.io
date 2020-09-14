@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-07-16T15:30:23.711Z</updated>
+  <updated>2020-09-14T15:03:28.154Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>V2Ray+WebSocket+TLS+Nginx</title>
+    <link href="https://nanzet.cn/4628.html"/>
+    <id>https://nanzet.cn/4628.html</id>
+    <published>2020-09-14T09:00:00.000Z</published>
+    <updated>2020-09-14T15:03:28.154Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="v2ray" scheme="https://nanzet.cn/tags/v2ray/"/>
+    
+  </entry>
   
   <entry>
     <title>Django--使用snowflake自定义生成主键ID替换数据库主键自增ID</title>
@@ -156,7 +183,7 @@
     <link href="https://nanzet.cn/396a.html"/>
     <id>https://nanzet.cn/396a.html</id>
     <published>2020-02-19T13:47:47.000Z</published>
-    <updated>2020-06-14T13:37:08.440Z</updated>
+    <updated>2020-09-14T14:46:20.364Z</updated>
     
     <summary type="html">
     
@@ -210,7 +237,7 @@
     <link href="https://nanzet.cn/fdbe.html"/>
     <id>https://nanzet.cn/fdbe.html</id>
     <published>2020-02-14T09:03:37.000Z</published>
-    <updated>2020-02-14T09:26:20.300Z</updated>
+    <updated>2020-09-14T14:46:42.322Z</updated>
     
     <summary type="html">
     
