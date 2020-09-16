@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-09-14T15:04:35.811Z</updated>
+  <updated>2020-09-16T09:25:00.187Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>VMware中虚拟机扩容</title>
+    <link href="https://nanzet.cn/80d6.html"/>
+    <id>https://nanzet.cn/80d6.html</id>
+    <published>2020-09-16T09:24:00.000Z</published>
+    <updated>2020-09-16T09:25:00.187Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="VMware" scheme="https://nanzet.cn/tags/VMware/"/>
+    
+  </entry>
+  
+  <entry>
     <title>V2Ray+WebSocket+TLS+Nginx</title>
     <link href="https://nanzet.cn/4628.html"/>
     <id>https://nanzet.cn/4628.html</id>
     <published>2020-09-14T09:00:00.000Z</published>
-    <updated>2020-09-14T15:04:35.811Z</updated>
+    <updated>2020-09-16T09:15:05.391Z</updated>
     
     <summary type="html">
     
@@ -125,11 +152,11 @@
   </entry>
   
   <entry>
-    <title>V2Ray安装教程：vps购买|服务端及客户端的安装与配置</title>
+    <title>V2Ray安装教程（初阶）</title>
     <link href="https://nanzet.cn/2b11.html"/>
     <id>https://nanzet.cn/2b11.html</id>
     <published>2020-07-04T04:56:00.000Z</published>
-    <updated>2020-07-04T06:43:17.660Z</updated>
+    <updated>2020-09-16T09:28:25.896Z</updated>
     
     <summary type="html">
     
