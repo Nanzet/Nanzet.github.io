@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-09-16T09:28:37.201Z</updated>
+  <updated>2020-09-17T13:58:16.966Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>对比Python的filetype和magic库检测文件类型 | Windows、Linux下文件目录遍历</title>
+    <link href="https://nanzet.cn/8a96.html"/>
+    <id>https://nanzet.cn/8a96.html</id>
+    <published>2020-09-17T13:47:45.000Z</published>
+    <updated>2020-09-17T13:58:16.966Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Python" scheme="https://nanzet.cn/tags/Python/"/>
+    
+      <category term="文件目录遍历" scheme="https://nanzet.cn/tags/%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E9%81%8D%E5%8E%86/"/>
+    
+      <category term="文件类型检测" scheme="https://nanzet.cn/tags/%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>VMware中虚拟机扩容</title>
