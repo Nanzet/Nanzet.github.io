@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-09-18T11:32:45.023Z</updated>
+  <updated>2020-09-18T12:32:24.838Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>对比Python的filetype和magic库检测文件类型 | Windows、Linux下文件目录遍历</title>
+    <title>对比Python的filetype和magic库检测文件类型</title>
     <link href="https://nanzet.cn/8a96.html"/>
     <id>https://nanzet.cn/8a96.html</id>
     <published>2020-09-17T13:47:45.000Z</published>
-    <updated>2020-09-18T11:32:45.023Z</updated>
+    <updated>2020-09-18T12:32:24.838Z</updated>
     
     <summary type="html">
     
