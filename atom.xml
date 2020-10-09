@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-09-23T15:35:14.530Z</updated>
+  <updated>2020-10-09T16:21:39.203Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小米手环 5 NFC模拟加密IC卡</title>
+    <link href="https://nanzet.cn/8b22.html"/>
+    <id>https://nanzet.cn/8b22.html</id>
+    <published>2020-10-09T14:53:00.000Z</published>
+    <updated>2020-10-09T16:21:39.203Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-前言&quot;&gt;&lt;a href=&quot;#1-前言&quot; class=&quot;headerlink&quot; title=&quot;1. 前言&quot;&gt;&lt;/a&gt;1.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="兴趣" scheme="https://nanzet.cn/categories/%E5%85%B4%E8%B6%A3/"/>
+    
+    
+      <category term="NFC" scheme="https://nanzet.cn/tags/NFC/"/>
+    
+      <category term="Mi Smart Band 5" scheme="https://nanzet.cn/tags/Mi-Smart-Band-5/"/>
+    
+  </entry>
   
   <entry>
     <title>解决Navicat Premium 12远程连接数据库PostgreSQL 12报错的问题</title>
