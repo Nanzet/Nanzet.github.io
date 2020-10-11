@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-10-09T16:21:39.203Z</updated>
+  <updated>2020-10-11T13:51:39.876Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>小米手环 5 NFC模拟加密IC卡</title>
-    <link href="https://nanzet.cn/8b22.html"/>
-    <id>https://nanzet.cn/8b22.html</id>
-    <published>2020-10-09T14:53:00.000Z</published>
-    <updated>2020-10-09T16:21:39.203Z</updated>
+    <title>解决打包前端文件到django后端项目中静态文件无法加载出现404的问题</title>
+    <link href="https://nanzet.cn/c11e.html"/>
+    <id>https://nanzet.cn/c11e.html</id>
+    <published>2020-10-11T12:54:57.000Z</published>
+    <updated>2020-10-11T13:51:39.876Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,36 @@
       
         
         
-          &lt;h4 id=&quot;1-前言&quot;&gt;&lt;a href=&quot;#1-前言&quot; class=&quot;headerlink&quot; title=&quot;1. 前言&quot;&gt;&lt;/a&gt;1.
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="django" scheme="https://nanzet.cn/tags/django/"/>
+    
+      <category term="vue" scheme="https://nanzet.cn/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米手环 5 NFC模拟加密IC卡</title>
+    <link href="https://nanzet.cn/8b22.html"/>
+    <id>https://nanzet.cn/8b22.html</id>
+    <published>2020-10-09T14:53:00.000Z</published>
+    <updated>2020-10-09T16:22:57.114Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -50,7 +79,7 @@
     <link href="https://nanzet.cn/ac24.html"/>
     <id>https://nanzet.cn/ac24.html</id>
     <published>2020-09-23T14:53:00.000Z</published>
-    <updated>2020-09-23T15:35:14.530Z</updated>
+    <updated>2020-10-11T10:49:13.900Z</updated>
     
     <summary type="html">
     
@@ -112,7 +141,7 @@
     <link href="https://nanzet.cn/7f2e.html"/>
     <id>https://nanzet.cn/7f2e.html</id>
     <published>2020-09-23T13:47:45.000Z</published>
-    <updated>2020-09-23T15:56:54.996Z</updated>
+    <updated>2020-10-11T10:49:22.799Z</updated>
     
     <summary type="html">
     
@@ -141,7 +170,7 @@
     <link href="https://nanzet.cn/8a96.html"/>
     <id>https://nanzet.cn/8a96.html</id>
     <published>2020-09-17T13:47:45.000Z</published>
-    <updated>2020-09-23T13:53:17.997Z</updated>
+    <updated>2020-10-11T10:49:07.107Z</updated>
     
     <summary type="html">
     
@@ -172,7 +201,7 @@
     <link href="https://nanzet.cn/80d6.html"/>
     <id>https://nanzet.cn/80d6.html</id>
     <published>2020-09-16T09:24:00.000Z</published>
-    <updated>2020-09-23T13:51:11.123Z</updated>
+    <updated>2020-10-11T10:50:38.257Z</updated>
     
     <summary type="html">
     
