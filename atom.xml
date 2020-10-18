@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-10-11T14:13:22.210Z</updated>
+  <updated>2020-10-18T14:38:28.832Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生产环境部署：python+django+nginx+uwsgi+debug=False+关闭django自带的admin后台</title>
+    <link href="https://nanzet.cn/ad8.html"/>
+    <id>https://nanzet.cn/ad8.html</id>
+    <published>2020-10-18T13:32:52.000Z</published>
+    <updated>2020-10-18T14:38:28.832Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://nanzet.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="python" scheme="https://nanzet.cn/tags/python/"/>
+    
+      <category term="django" scheme="https://nanzet.cn/tags/django/"/>
+    
+      <category term="uwsgi" scheme="https://nanzet.cn/tags/uwsgi/"/>
+    
+      <category term="nginx" scheme="https://nanzet.cn/tags/nginx/"/>
+    
+  </entry>
   
   <entry>
     <title>解决打包前端文件到django后端项目中静态文件无法加载出现404的问题</title>
