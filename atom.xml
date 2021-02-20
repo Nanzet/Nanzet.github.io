@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nanzet.cn/"/>
-  <updated>2020-10-18T14:42:41.057Z</updated>
+  <updated>2021-02-20T17:37:33.350Z</updated>
   <id>https://nanzet.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>被催更的寒假作业--长沙小复盘</title>
+    <link href="https://nanzet.cn/6861.html"/>
+    <id>https://nanzet.cn/6861.html</id>
+    <published>2021-02-20T15:50:59.000Z</published>
+    <updated>2021-02-20T17:37:33.350Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="心情" scheme="https://nanzet.cn/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="长沙" scheme="https://nanzet.cn/tags/%E9%95%BF%E6%B2%99/"/>
+    
+      <category term="旅行" scheme="https://nanzet.cn/tags/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>生产环境部署：python+django+nginx+uwsgi+debug=False+关闭django自带的admin后台</title>
